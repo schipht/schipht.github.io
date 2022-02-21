@@ -33,9 +33,9 @@ permalink: /:title/
 #  categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-#facebook: myfacebook
+#facebook: schipht
 twitter: schipht
-#instagram: myinstagram
+#instagram: schipht
 linkedin: schipht
 github: schipht
 email: murat@karayel.xyz
@@ -47,12 +47,6 @@ authors:
     external-image: false
     picture: assets/images/profile.full.jpg
     twitter: schipht
- #jamesfoster:
-  #  name: James Foster
-  #  bio: A Man who develops software with coffee
-  #  external-image: false
-  #  picture: assets/images/james.jpg
-  #  twitter: jamesfoster
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
