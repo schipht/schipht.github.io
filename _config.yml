@@ -7,7 +7,7 @@ description: A portfolio page about me
 
 # if it's an external image, update below for true
 # better with square images
-external-image: true
+external-image: false
 picture: assets/images/profile.full.jpg
 
 # your site color theme, false to light theme
@@ -44,7 +44,7 @@ authors:
   schipht:
     name: Murat Karayel
     bio: System & Network Specialist
-    external-image: true
+    external-image: false
     picture: assets/images/profile.full.jpg
     twitter: schipht
  #jamesfoster:
