@@ -1,9 +1,9 @@
 # main text of home
-title: John Doe
-bio: A Person who travels the world eating noodles
+title: Murat Karayel
+bio: System & Network Specialist
 
 # twitter summary info
-description: A blog about technology and stuff related
+description: A portfolio page about me
 
 # if it's an external image, update below for true
 # better with square images
@@ -17,9 +17,9 @@ dark-theme: true
 # and specify source (external or local).
 resume: true
 resume-external: true
-resume-url: https://google.com/?q=my+resume
+resume-url: https://kariyer.net/ozgecmis/schipht
 
-url: https://sergiokopplin.github.io/indigo
+url: https://schipht.github.io
 # your url: https://USERNAME.github.io
 
 permalink: /:title/
@@ -29,30 +29,30 @@ permalink: /:title/
 
 # if you don't want comments in your posts, leave categories empty
 disqus:
-  shortname: github # enter this from your disqus account
+  shortname: schipht # enter this from your disqus account
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: myfacebook
-twitter: mytwitter
-instagram: myinstagram
-linkedin: mylinkedin
-github: mygithub
-email: myemail@gmail.com
+#facebook: myfacebook
+twitter: schipht
+#instagram: myinstagram
+linkedin: schipht
+github: schipht
+email: murat@karayel.xyz
 
 authors:
-  johndoe:
-    name: John Doe
-    bio: A Man who travels the world eating noodles
+  schipht:
+    name: Murat Karayel
+    bio: System & Network Specialist
     external-image: false
     picture: assets/images/profile.jpg
-    twitter: johndoe
-  jamesfoster:
-    name: James Foster
-    bio: A Man who develops software with coffee
-    external-image: false
-    picture: assets/images/james.jpg
-    twitter: jamesfoster
+    twitter: schipht
+ #jamesfoster:
+  #  name: James Foster
+  #  bio: A Man who develops software with coffee
+  #  external-image: false
+  #  picture: assets/images/james.jpg
+  #  twitter: jamesfoster
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
