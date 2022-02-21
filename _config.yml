@@ -7,7 +7,7 @@ description: A portfolio page about me
 
 # if it's an external image, update below for true
 # better with square images
-external-image: false
+external-image: true
 picture: assets/images/profile.png
 
 # your site color theme, false to light theme
