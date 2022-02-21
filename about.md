@@ -4,36 +4,33 @@ layout: page
 ---
 ![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
 
-<p>Lorem Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<p>Hello, this is Murat. I was born in Ankara, Turkey at 1996.
+I was growed with computers in my childhood.
+I didn't take any education for computer science in education career.
+All my knowledge depends my experience, interests and research.
+My interests are servers, NE's, network, coding, discover new FOSS,
+internet and computer technologies. I'm improving my self in these topics.</p>
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<p>I'm working in GOKNET since August, 2020 as Information Technology Specialist.
+Goknet (AS201411) is internet service provider in Turkey with 3 (Ankara, Istanbul & Adana) POP with over +90k customers.</p>
 
 <h2>Skills</h2>
 
 <ul class="skill-list">
-	<li>HTML - Jade - Haml - Erb</li>
-	<li>Responsive (Mobile First)</li>
-	<li>CSS (Stylus, Sass, Less)</li>
-	<li>Css Frameworks (Bootstrap, Foundation)</li>
-	<li>Javascript (Design Patterns, Testes)</li>
-	<li>AngularJS - ReactJS</li>
-	<li>Grunt - Gulp - Yeoman</li>
-	<li>Git</li>
-	<li>PHP</li>
-	<li>Python</li>
-	<li>MySQL - MongoDB</li>
-	<li>Scrum and Kanban</li>
-	<li>TDD e Continuous Integration</li>
+	<li>Data center cabinet installation</li>
+	<li>Cabling</li>
+	<li>PDU installation</li>
+	<li>Server installation</li>
+	<li>Windows Server (AD, IIS, DHCP, DNS, Failover Clustering)</li>
+	<li>GNU Linux, Linux Server</li>
+	<li>Virtualization (Hyper-V & Proxmox VE)</li>
+	<li>Actvie Directory management</li>
+	<li>Router management (Fortigate)</li>
+	<li>File server management (FreeNAS)</li>
+	<li>Monitoring management (Zabbix)</li>
+	<li>Call Center Management (Issabel)</li>
+	<li>Enterprise e-mail management</li>
+	<li>IT jobs in HQ</li>
 </ul>
 
 <h2>Projects</h2>
