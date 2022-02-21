@@ -36,7 +36,7 @@ Goknet (AS201411) is internet service provider in Turkey with 3 (Ankara, Istanbu
 <h2>Projects</h2>
 
 <ul>
-	<li>1</li>
-	<li>2</li>
-	<li>3</li>
+	<li>Rebuild Istanbul POP</li>
+	<li>Build Adana POP</li>
+	<li>SAN system installation, Ankara POP</li>
 </ul>
