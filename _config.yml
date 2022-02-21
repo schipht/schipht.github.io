@@ -44,7 +44,7 @@ authors:
   schipht:
     name: Murat Karayel
     bio: System & Network Specialist
-    external-image: false
+    external-image: true
     picture: assets/images/profile.full.jpg
     twitter: schipht
  #jamesfoster:
