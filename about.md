@@ -30,7 +30,7 @@ Goknet (AS201411) is internet service provider in Turkey with 3 (Ankara, Istanbu
 	<li>Monitoring management (Zabbix)</li>
 	<li>Call Center Management (Issabel)</li>
 	<li>Enterprise e-mail management</li>
-	<li>IT jobs in HQ</li>
+	<li>All IT jobs for HQ and our systems in DC's</li>
 </ul>
 
 <h2>Projects</h2>
