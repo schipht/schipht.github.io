@@ -1,6 +1,12 @@
 <!-- To add more icons, duplicate a section and find yout icon here -> https://fontawesome.com/v6.0/icons -->
 
 <div class="social-links">
+    {% if site.telegram %}
+        <a class="link" data-title="t.me/{{ site.telegram }}" href="https://t.me/{{ site.telegram }}" target="_blank" rel="noopener">
+            <i class="fa-brands fa-telegram"></i>
+        </a>
+    {% endif %}
+    
     {% if site.facebook %}
         <a class="link" data-title="facebook.com/{{ site.facebook }}" href="https://facebook.com/{{ site.facebook }}" target="_blank" rel="noopener">
             <i class="fa-brands fa-facebook"></i>
