@@ -12,7 +12,7 @@ My interests are servers, NE's, network, coding, discover new FOSS,
 internet and computer technologies. I'm improving my self in these topics.</p>
 
 <p>I'm working in GOKNET since August, 2020 as Information Technology Specialist.
-Goknet (AS201411) is internet service provider in Turkey with 3 (Ankara, Istanbul & Adana) POP with over +100k customers.</p>
+Goknet (AS201411) is internet service provider in Turkey with 3 (Ankara, Istanbul & Adana) POP for over +100k customers.</p>
 
 <h2>Skills</h2>
 
