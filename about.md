@@ -9,7 +9,7 @@ I was growed with computers in my childhood.
 I didn't take any education for computer science in education career.
 All my knowledge depends my experience, interests and research.
 My interests are servers, NEs, coding, discover new FOSS,
-internet and computer technologies. I'm improving my self in these topics.</p>
+internet and computer technologies. I'm improving my self in these topics and more.</p>
 
 <p>I'm working in GOKNET since August, 2020 as Information Technology Specialist.
 Goknet (AS201411) is internet service provider in Turkey with 3 (Ankara, Istanbul & Adana) POP for over +100k customers.</p>
