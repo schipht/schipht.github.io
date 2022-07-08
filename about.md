@@ -12,18 +12,17 @@ My interests are servers, NE's, network, coding, discover new FOSS,
 internet and computer technologies. I'm improving my self in these topics.</p>
 
 <p>I'm working in GOKNET since August, 2020 as Information Technology Specialist.
-Goknet (AS201411) is internet service provider in Turkey with 3 (Ankara, Istanbul & Adana) POP with over +90k customers.</p>
+Goknet (AS201411) is internet service provider in Turkey with 3 (Ankara, Istanbul & Adana) POP with over +100k customers.</p>
 
 <h2>Skills</h2>
 
 <ul class="skill-list">
 	<li>Data center cabinet installation</li>
 	<li>Cabling</li>
-	<li>PDU installation</li>
 	<li>Server installation</li>
 	<li>Windows Server (AD, IIS, DHCP, DNS, Failover Clustering)</li>
 	<li>GNU Linux, Linux Server</li>
-	<li>Virtualization (Hyper-V & Proxmox VE)</li>
+	<li>Virtualization (Hyper-V & VMware & Proxmox VE)</li>
 	<li>Actvie Directory management</li>
 	<li>Router management (Fortigate)</li>
 	<li>File server management (FreeNAS)</li>
@@ -33,10 +32,10 @@ Goknet (AS201411) is internet service provider in Turkey with 3 (Ankara, Istanbu
 	<li>All IT jobs for HQ and our systems in DC's</li>
 </ul>
 
+<!--
 <h2>Projects</h2>
 
 <ul>
-	<li>Rebuild Istanbul POP</li>
-	<li>Build Adana POP</li>
-	<li>SAN system installation, Ankara POP</li>
+	<li></li>
 </ul>
+-->
