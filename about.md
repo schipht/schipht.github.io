@@ -8,7 +8,7 @@ layout: page
 I was growed with computers in my childhood.
 I didn't take any education for computer science in education career.
 All my knowledge depends my experience, interests and research.
-My interests are servers, NE's, network, coding, discover new FOSS,
+My interests are servers, NEs, coding, discover new FOSS,
 internet and computer technologies. I'm improving my self in these topics.</p>
 
 <p>I'm working in GOKNET since August, 2020 as Information Technology Specialist.
