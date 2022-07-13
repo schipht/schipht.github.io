@@ -15,6 +15,6 @@ l-588 0 -60 -76 c-33 -42 -141 -176 -240 -298 -99 -123 -404 -500 -678 -839
 -1770 -1845 l-32 -35 -72 75 c-206 216 -1609 1678 -1770 1845 l-78 80 0 -1962z"></path>
 </g>
 </svg><style>
-<!-- @media (prefers-color-scheme: light) { :root { filter: none; } } -->
+@media (prefers-color-scheme: light) { :root { filter: none; } }
 @media (prefers-color-scheme: dark) { :root { filter: invert(100%); } }
 </style></svg>
