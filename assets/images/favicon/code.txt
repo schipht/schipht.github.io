@@ -1,2 +1,2 @@
-<link rel="icon" type="image/svg+xml" href="favicon.svg">
-<link rel="icon" type="image/png" href="favicon.png">
+<link href="favicon-light.png" rel="icon" media="(prefers-color-scheme: light)"/>
+<link href="favicon-dark.png" rel="icon" media="(prefers-color-scheme: dark)"/>
