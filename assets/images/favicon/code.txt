@@ -1,10 +1,10 @@
 <link
-  href="{{site.url}}/assets/images/favicon/favicon-light.ico"
+  href="favicon-light.ico"
   rel="icon"
   media="(prefers-color-scheme: light)"
 />
 <link
-  href="{{site.url}}/assets/images/favicon/favicon-dark.ico"
+  href="favicon-dark.ico"
   rel="icon"
   media="(prefers-color-scheme: dark)"
 />
