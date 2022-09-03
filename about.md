@@ -23,7 +23,7 @@ Goknet (AS201411) is internet service provider in Turkey with 3 (Ankara, Istanbu
 	<li>Windows Server (AD, IIS, DHCP, DNS, Failover Clustering)</li>
 	<li>GNU Linux, Linux Server</li>
 	<li>Virtualization (Hyper-V & VMware & Proxmox VE)</li>
-	<li>Actvie Directory management</li>
+	<li>Active Directory management</li>
 	<li>Router management (Fortigate)</li>
 	<li>File server management (FreeNAS)</li>
 	<li>Monitoring management (Zabbix)</li>
