@@ -18,7 +18,7 @@ header {
   text-align: center;
 }
 h1 {
-  font-size: 36px;
+  font-size: 40px;
 }
 h2 {
   font-size: 24px;
@@ -48,9 +48,16 @@ a {
 a:hover {
   transform: scale(1.2);
 }
-br,p,h1 {
+br,p,h1,img {
   user-select: none;
   -moz-user-select: none;
   -webkit-user-select: none;
   -ms-user-select: none;
+}
+#social li a {
+  font-size: 15px;
+}
+
+#social li a :hover {
+  color: rgb(255, 0, 0);
 }
