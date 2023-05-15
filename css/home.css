@@ -4,11 +4,8 @@ body {
   font-family: Arial, sans-serif;
   font-size: 18px;
   line-height: 1.5;
-  margin-top: auto;
-  margin-bottom: auto;
-  margin-left: auto;
-  margin-right: auto;
-  padding: 0;
+  margin: 0px;
+  padding: 0px;
   zoom: 120%;
   -moz-transform: scale(1.2);
   -webkit-transform: scale(1.2);
@@ -17,15 +14,15 @@ body {
 }
 header {
   text-align: center;
-  margin-top: 50px;
+  margin-top: 0px;
 }
 h1 {
   font-size: 36px;
-  margin-bottom: 20px;
+  margin-bottom: 0px;
 }
 h2 {
   font-size: 24px;
-  margin-bottom: 10px;
+  margin-bottom: 0px;
 }
 img {
   display: block;
@@ -41,7 +38,7 @@ ul {
   padding: 0;
   display: flex;
   justify-content: center;
-  margin-top: 20px;
+  margin-top: 0px;
 }
 li {
   margin: 0 10px;
