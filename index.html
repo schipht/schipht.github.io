@@ -1,33 +1,11 @@
 <!DOCTYPE html>
 <html>
-  <head>
-    <script>
-        var isMobile = /iPhone|iPad|iPod|Android/i.test(navigator.userAgent);
-        var favicon = document.querySelector("link[rel='icon']");
-        
-        if (isMobile) {
-            favicon.href = "/images/favicon/favicon-mobile.png";
-        } else {
-            // Mobil cihazlarda kullanılmayacak olan faviconları kaldırma
-            var icons = document.querySelectorAll("link[rel='icon']");
-            for (var i = 0; i < icons.length; i++) {
-                if (icons[i] !== favicon) {
-                    icons[i].remove();
-                }
-            }
-        }
-    </script>
-    <link rel="icon" type="image/png" href="/images/favicon/favicon.png">
-    <link rel="icon" type="image/svg+xml" href="/images/favicon/favicon.svg">
-    
-    <!--
-      <link rel="icon" type="image/svg+xml" href="/images/favicon/favicon.svg">
-      <link rel="icon" type="image/png" href="/images/favicon/favicon.png">      
-    -->
-
+  <head>  
       <title>karayel.xyz - Murat Karayel</title>
       <meta name="viewport" content="width=device-width, maximum-scale=1.0, user-scalable=no">
       <link rel="stylesheet" href="css/home.css">
+      <link rel="icon" type="image/svg+xml" href="/images/favicon/favicon.svg">
+      <link rel="icon" type="image/png" href="/images/favicon/favicon.png">
   </head>
   <body>
     <div style="display: flex; justify-content: center; align-items: center; min-height: 90vh;">
@@ -39,11 +17,11 @@
       <br>
       <br>
       <div id="social">
-            <li style="display: inline-block; margin-right: 10px;"><a href="https://t.me/schipht"><i class="fab fa-telegram fa-lg"></i></a>
-            <li style="display: inline-block; margin-right: 10px;"><a href="https://twitter.com/schipht"><i class="fab fa-twitter fa-lg"></i></a>
-            <li style="display: inline-block; margin-right: 10px;"><a href="https://www.linkedin.com/in/schipht"><i class="fab fa-linkedin fa-lg"></i></a>
-            <li style="display: inline-block; margin-right: 10px;"><a href="https://github.com/schipht"><i class="fab fa-github fa-lg"></i></a>
-            <li style="display: inline-block; margin-right: 10px;"><a href="mailto:murat@karayel.xyz"><i class="fas fa-envelope fa-lg"></i></a>
+        <li style="display: inline-block; margin-right: 10px;"><a href="https://t.me/schipht"><i class="fab fa-telegram fa-lg"></i></a>
+        <li style="display: inline-block; margin-right: 10px;"><a href="https://twitter.com/schipht"><i class="fab fa-twitter fa-lg"></i></a>
+        <li style="display: inline-block; margin-right: 10px;"><a href="https://www.linkedin.com/in/schipht"><i class="fab fa-linkedin fa-lg"></i></a>
+        <li style="display: inline-block; margin-right: 10px;"><a href="https://github.com/schipht"><i class="fab fa-github fa-lg"></i></a>
+        <li style="display: inline-block; margin-right: 10px;"><a href="mailto:murat@karayel.xyz"><i class="fas fa-envelope fa-lg"></i></a>
     </div>
     <div style="display: flex; justify-content: center; align-items: center;">
       <hr style="width: 100px; border-top: 1px solid rgb(0, 0, 0); margin-right: 10px;">
@@ -51,7 +29,7 @@
       <hr style="width: 100px; border-top: 1px solid rgb(0, 0, 0); margin-left: 10px;">
     </div>
     <p style="font-weight: normal; font-size: 12px; color: rgb(80, 80, 80);">Murat Karayel © 2023</p>
-</header>
-</div>
-</body>
+  </header>
+  </div>
+  </body>
 </html>
