@@ -1,15 +1,25 @@
 <!DOCTYPE html>
 <html>
   <head>
-      <link rel="stylesheet" href="css/all.css">
-      <script>
-        if(/Mobi/.test(navigator.userAgent)) {
-            document.querySelector("link[rel~='icon']").href = "/images/favicon/mobile-favicon.png";
+    <link rel="icon" type="image/png" href="/images/favicon/favicon.png">
+    <link rel="icon" type="image/svg+xml" href="/images/favicon/favicon.svg">
+    
+    <script>
+        var isMobile = /iPhone|iPad|iPod|Android/i.test(navigator.userAgent);
+        var favicon = document.querySelector("link[rel='icon']");
+        
+        if (isMobile) {
+            favicon.href = "/images/favicon/favicon-mobile.png";
         } else {
-            document.querySelector("link[rel~='icon']").href = "/images/favicon/favicon.svg";
+            // Mobil cihazlarda kullanılmayacak olan faviconları kaldırma
+            var icons = document.querySelectorAll("link[rel='icon']");
+            for (var i = 0; i < icons.length; i++) {
+                if (icons[i] !== favicon) {
+                    icons[i].remove();
+                }
+            }
         }
     </script>
-    <link rel="icon" type="image/png" href="/images/favicon/favicon.png">
     
     <!--
       <link rel="icon" type="image/svg+xml" href="/images/favicon/favicon.svg">
