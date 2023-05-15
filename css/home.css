@@ -14,15 +14,19 @@ body {
   transform: scale(1.2);
   overflow: hidden;
 }
+
 header {
   text-align: center;
 }
+
 h1 {
   font-size: 40px;
 }
+
 h2 {
   font-size: 24px;
 }
+
 img {
   display: block;
   margin: 0 auto;
@@ -31,33 +35,51 @@ img {
   height: 150px;
   object-fit: cover;
 }
+
 ul {
   list-style: none;
+  margin: 0 11px;
+  padding: 0;
   display: flex;
   justify-content: center;
+  margin-top: 20px;
 }
+
 li {
-  margin: 0 10px;
+  list-style: none;
+  margin: 0 11px;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+
 }
+
 a {
   color: white;
   text-decoration: none;
   font-size: 24px;
   transition: all 0.3s ease-in-out;
 }
+
 a:hover {
   transform: scale(1.2);
 }
-br,p,h1,img {
+
+br,
+p,
+h1,
+img {
   user-select: none;
   -moz-user-select: none;
   -webkit-user-select: none;
   -ms-user-select: none;
 }
-#social li a {
+
+#social ul li a {
   font-size: 15px;
 }
 
-#social li a :hover {
+#social ul li a :hover {
   color: rgb(255, 0, 0);
 }
