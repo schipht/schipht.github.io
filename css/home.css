@@ -4,7 +4,10 @@ body {
   font-family: Arial, sans-serif;
   font-size: 18px;
   line-height: 1.5;
-  margin: 0;
+  margin-top: auto;
+  margin-bottom: auto;
+  margin-left: auto;
+  margin-right: auto;
   padding: 0;
   zoom: 120%;
   -moz-transform: scale(1.2);
