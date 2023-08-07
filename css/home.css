@@ -8,7 +8,6 @@ body {
   margin-bottom: auto;
   margin-left: auto;
   margin-right: auto;
-  /* zoom: 120%; */
   -moz-transform: scale(1.2);
   -webkit-transform: scale(1.2);
   transform: scale(1.2);
